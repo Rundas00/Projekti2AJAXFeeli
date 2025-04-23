@@ -6,8 +6,7 @@ Access my site at [https://merry-hamster-197296.netlify.app/]
 
 ## How was the workload divided
 How was the workload divided. Who did what? 
-
-
+Feeli 100%
 
 ## Table of Content:
 
@@ -21,7 +20,7 @@ How was the workload divided. Who did what?
 - [License](#license)
 
 ## About The App
-[Name of project] is an app that ...
+Finnkino movie schedule app is a simple app that uses AJAX call to a live REST API in order to fetch Finnkino's movie information to my web app. It has search function and filter for the movie theater Helsinki: Tenniospalatsi for example. It shows the name of the movies, the show times and a picture. There is also a slot for description, but I was running out of time so I didn't figure out how to make it viable so currently it just shows "No description available". 
 
 ## Screenshots
 Add here atleast one screenshot of the working application 
