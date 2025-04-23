@@ -2,7 +2,7 @@
 The name of the Project and all authors involved
 
 ## Demo link:
-Access my site at [google.com](https://google.com)
+Access my site at [https://merry-hamster-197296.netlify.app/]
 
 ## How was the workload divided
 How was the workload divided. Who did what? 
